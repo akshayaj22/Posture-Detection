@@ -18,14 +18,14 @@ Here is the real-time monitoring system in action, showing how the model classif
 
 | Posture Classification | Analytical Breakdown |
 | :---: | :---: |
-| ![Live Dashboard](images/p1.jpeg) | ![Posture Distribution](assets/p3.jpeg) |
+| ![Live Dashboard](images/p1.jpeg) | ![Posture Distribution](images/p3.jpeg) |
 
 
 ### Negative Posture Alert
 The system also detects when a user is reaching or slouching, providing immediate visual feedback:
 
 <p align="center">
-  <img src="assets/p4.jpeg" width="600">
+  <img src="images/p4.jpeg" width="600">
 </p>
 
 ## Tech Stack
